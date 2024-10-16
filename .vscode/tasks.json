@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "terminal",
+            "type": "shell",
+            "command": "/bin/bash",
+            "args": [],
+            "options": {},
+            "runOptions": {
+                "runOn": "folderOpen"
+            },
+            "group": "devcontainer",
+            "presentation": {
+                "echo": false,
+                "focus": true,
+                "panel": "new"
+            }
+        }
+    ]
+}
