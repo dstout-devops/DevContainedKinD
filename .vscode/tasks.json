@@ -10,7 +10,7 @@
             "runOptions": {
                 "runOn": "folderOpen"
             },
-            "group": "devcontainer",
+            "group": "build",
             "presentation": {
                 "echo": false,
                 "focus": true,
