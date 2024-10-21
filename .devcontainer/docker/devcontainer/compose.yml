@@ -1,5 +1,6 @@
 services:
   devcontainer:
+    hostname: devcontainer
     build:
       context: .
       dockerfile: Dockerfile
